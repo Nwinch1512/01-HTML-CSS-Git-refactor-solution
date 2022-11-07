@@ -8,4 +8,8 @@ This repository contains all files associated with the HTML CSS Git refactored c
 
 Please see below for a screenshot of the refactored website.
 
+![Horiseon screenshot refactored webpage](Horiseon-screenshot-refactored-webpage.jpeg)
+
 Please refer to the link below to access the refactored website.
+
+## License
