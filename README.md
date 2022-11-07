@@ -12,11 +12,11 @@ N/A
 
 This website has been refactored to take into account accessibility needs. The website can be used by anyone, but the semantic elements make it easier for assistive technologies to access.
 
-Please see below for a screenshot of the refactored website.
+Please see below for a screenshot of the refactored website, with a link below it.
 
 ![Horiseon screenshot refactored webpage](Horiseon-screenshot-refactored-webpage.jpeg)
 
-Please refer to the link below to access the refactored website.
+[Horiseon accessible website](https://nwinch1512.github.io/01-HTML-CSS-Git-refactor-solution/ "Visit accessible Horiseon website")
 
 ## License
 
