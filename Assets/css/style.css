@@ -70,11 +70,16 @@ p {
   margin-left: 25px;
 }
 
-.content {
-  width: 75%;
+main {
   display: inline-block;
   margin-left: 20px;
 }
+
+.services {
+  width: 75%;
+  float: left;
+}
+
 /*changed selector from . to # to fix hyperlink and grouped all search engine optimization styling together.  Moved styling for first three sections ahead of 'benefits' section to follow semantic structure of HTML*/
 
 #search-engine-optimization {
@@ -136,9 +141,9 @@ p {
 }
 
 .benefits {
+  width: 25%;
   margin-right: 20px;
   padding: 20px;
-  clear: both;
   float: right;
   width: 20%;
   height: 100%;
@@ -196,7 +201,7 @@ p {
   max-width: 150px;
 }
 
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -204,6 +209,6 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
